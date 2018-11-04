@@ -41,8 +41,13 @@ Global error shows that from some step, the worst method "stabylize" and does no
 - Earned undertanding of what is happening when you decrese/increase step.
 
 
-
-
+## Graphs
+## Solution graphs
+![alt text](https://github.com/PRYRAN/DEAssigmnet/blob/master/Solutuin%20Graphs.jpg)
+## Local Error graphs
+![alt text](https://github.com/PRYRAN/DEAssigmnet/blob/master/Local%20Error%20Graphs.jpg)
+## Global Error graphs
+![alt text](https://github.com/PRYRAN/DEAssigmnet/blob/master/Global%20Error%20graph.jpg)
 
 
 
