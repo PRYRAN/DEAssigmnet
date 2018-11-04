@@ -46,3 +46,5 @@ Global error shows that from some step, the worst method "stabylize" and does no
 
 
 
+
+
